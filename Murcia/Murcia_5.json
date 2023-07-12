@@ -3,6 +3,22 @@
 		"color_schemes": {
 			"cluster_colors": [
 				{
+					"cluster": 1,
+					"color": "#9467bd"
+				},
+				{
+					"cluster": 2,
+					"color": "#9467bd"
+				},
+				{
+					"cluster": 3,
+					"color": "#9467bd"
+				},
+				{
+					"cluster": 4,
+					"color": "#9467bd"
+				},
+				{
 					"cluster": 5,
 					"color": "#9467bd"
 				}

@@ -1,4 +1,34 @@
 ﻿{
+	"config": {
+		"color_schemes": {
+			"cluster_colors": [
+				{
+					"cluster": 1,
+					"color": "#d62728"
+				},
+				{
+					"cluster": 2,
+					"color": "#2ca02c"
+				},
+				{
+					"cluster": 3,
+					"color": "#1f77b4"
+				},
+				{
+					"cluster": 4,
+					"color": "#bcbd22"
+				},
+				{
+					"cluster": 5,
+					"color": "#9467bd"
+				},
+				{
+					"cluster": 6,
+					"color": "#CFD1D1"
+				}
+			]
+		}
+	},
 	"network": {
 		"items": [
 			{

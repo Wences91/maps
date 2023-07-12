@@ -4,7 +4,7 @@
 			"cluster_colors": [
 				{
 					"cluster": 1,
-					"color": "#d62728"
+					"color": "#2ca02c"
 				},
 				{
 					"cluster": 2,
@@ -12,19 +12,15 @@
 				},
 				{
 					"cluster": 3,
-					"color": "#1f77b4"
+					"color": "#2ca02c"
 				},
 				{
 					"cluster": 4,
-					"color": "#bcbd22"
+					"color": "#2ca02c"
 				},
 				{
 					"cluster": 5,
-					"color": "#9467bd"
-				},
-				{
-					"cluster": 6,
-					"color": "#CFD1D1"
+					"color": "#2ca02c"
 				}
 			]
 		}
